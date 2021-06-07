@@ -1,15 +1,28 @@
-# Learn a11y
+# Website accessibility course
 
-A web app for learning web accessibility.
+My repo for the course Website Accessibility, v2 by Jon Kuperman on Frontend Masters.
+The course can be found [here](https://frontendmasters.com/courses/accessibility-v2/) and the content is briefly described below
 
-This is meant to accompany my Introduction to Accessibility workshop on Frontend Masters but my hope is that it will stand fine on its own.
+> Learn how to make your website applications accessible to a wider audience. Use keyboard shortcuts and navigation to help both power users and those with disabilities. Make sure your website works well with screen readers and explore using ARIA to make even the most complex UI's fully accessible!
 
-To view this course online, head over to [learn-a11y.netlify.com](https://learn-a11y.netlify.app/)!
+[Course website](https://learn-a11y.netlify.app/)
+
+## Final product
+A web app for learning web accessibility alongside some practical practices
 
 ## Installation
 
-This is made to be as easy as possible. Just download or clone the repository and open index.html in your favorite browser!
+1. Clone the repo
+   ```sh
+   git clone https://github.com/PetroSilenius/learn-a11y.git
+   ```
+2. Open `index.html` in your browser
 
-## Exercises
+## Contact
 
-All exercises should be clearly explained. Please don't hesitate to ask or open an issue if there is any confusion. Some of them are vague, like the semantic HTML section. There is no _right_ answer for these, just poke around the code and see if you can improve the experience for users with disabilities.
+Petro Silenius - [@PetroSilenius](https://github.com/PetroSilenius) - petro.silenius@gmail.com
+
+
+## Acknowledgements
+
+* [Jon Kuperman](https://frontendmasters.com/teachers/jon-kuperman/)
